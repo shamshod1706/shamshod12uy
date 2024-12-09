@@ -201,11 +201,10 @@ section{
     }
 }
 
-/* .img{
+.img{
     width: 100%;
     padding: 60px 0;
-    height: max-content;
-} */
+}
 
 main{
     padding: 120px 0;
